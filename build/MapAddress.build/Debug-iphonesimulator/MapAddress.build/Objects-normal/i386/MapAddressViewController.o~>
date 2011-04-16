@@ -1,0 +1,3 @@
+/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m: In function '-[MapAddressViewController connection:didReceiveData:]':
+/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m:127: warning: unused variable 'latitude'
+/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m:126: warning: unused variable 'longitude'

@@ -1,0 +1,256 @@
+TMapAddress
+v7
+r0
+t323661521.006966
+cCheck dependencies
+cProcessInfoPlistFile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/Info.plist MapAddress-Info.plist
+cCompileXIB /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MainWindow.xib
+cCompileXIB /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddressViewController.xib
+cProcessPCH /var/folders/tu/tuNJRbtmF24Q+FZ+VWc5vk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapAddress_Prefix-gblgrpiffqkcpwghxijedqxvcrey/MapAddress_Prefix.pch.gch MapAddress_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/main.o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressAppDelegate.o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressViewController.o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress normal i386
+cGenerateDSYMFile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app.dSYM /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress
+cTouch /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressAppDelegate.h
+c000000004D9A76A000000000000001F8
+t1301968544
+s504
+i<UIKit/UIKit.h>
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressAppDelegate.m
+c000000004D9A76A00000000000000AAB
+t1301968544
+s2731
+i"MapAddressAppDelegate.h"
+i"MapAddressViewController.h"
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.h
+c000000004D9A76A000000000000000FE
+t1301968544
+s254
+i<UIKit/UIKit.h>
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m
+c000000004D9A76A000000000000005D4
+t1301968544
+s1492
+i"MapAddressViewController.h"
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MainWindow.xib
+c000000004D9A76A00000000000004E4D
+t1301968544
+s20045
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddressViewController.xib
+c000000004D9A774C0000000000004A94
+t1301968716
+s19092
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddress_Prefix.pch
+c000000004D9A76A000000000000000BD
+t1301968544
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app
+t1301968721
+s238
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app.dSYM
+t1301968720
+s102
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/Info.plist
+t1301968718
+s603
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MainWindow.nib
+t1301968719
+s1129
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress
+t1301968720
+s17336
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddressViewController.nib
+t1301968719
+s1310
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/PkgInfo
+t1301968718
+s8
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddress.LinkFileList
+c000000004D9A774E00000000000001DE
+t1301968718
+s478
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressAppDelegate.o
+t1301968720
+s51104
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressViewController.o
+t1301968720
+s37600
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/main.o
+t1301968720
+s6340
+
+N/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/main.m
+c000000004D9A76A00000000000000173
+t1301968544
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/tu/tuNJRbtmF24Q+FZ+VWc5vk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapAddress_Prefix-gblgrpiffqkcpwghxijedqxvcrey/MapAddress_Prefix.pch.gch
+t1301968720
+s15453392
+
+NMapAddress-Info.plist
+c000000004D9A76A0000000000000038D
+t1301968544
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323661518#323661518#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressAppDelegate.o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323661520.664176
+e323661520.918034
+r1
+xCompileC
+xbuild/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressAppDelegate.o
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressAppDelegate.m323661520#323661520#0(0"0(0#0#89"/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressAppDelegate.m8604412000#2225"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-generated-files.hmap -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-own-target-headers.hmap -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-all-target-headers.hmap -iquote /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-project-headers.hmap -F/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/include -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/DerivedSources/i386 -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/DerivedSources -include /var/folders/tu/tuNJRbtmF24Q+FZ+VWc5vk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapAddress_Prefix-gblgrpiffqkcpwghxijedqxvcrey/MapAddress_Prefix.pch -c /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressAppDelegate.m -o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressAppDelegate.o0#
+
+CCompileC build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressViewController.o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323661520.833214
+e323661520.939508
+r1
+xCompileC
+xbuild/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressViewController.o
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m323661520#323661520#0(0"0(0#0#92"/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m8604137920#2231"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-generated-files.hmap -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-own-target-headers.hmap -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-all-target-headers.hmap -iquote /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-project-headers.hmap -F/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/include -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/DerivedSources/i386 -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/DerivedSources -include /var/folders/tu/tuNJRbtmF24Q+FZ+VWc5vk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapAddress_Prefix-gblgrpiffqkcpwghxijedqxvcrey/MapAddress_Prefix.pch -c /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/Classes/MapAddressViewController.m -o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddressViewController.o0#
+
+CCompileC build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/main.o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323661520.661973
+e323661520.833092
+r1
+xCompileC
+xbuild/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/main.o
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/main.m323661520#323661520#0(0"0(0#0#64"/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/main.m8604413056#2183"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-generated-files.hmap -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-own-target-headers.hmap -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-all-target-headers.hmap -iquote /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-project-headers.hmap -F/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/include -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/DerivedSources/i386 -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/DerivedSources -include /var/folders/tu/tuNJRbtmF24Q+FZ+VWc5vk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapAddress_Prefix-gblgrpiffqkcpwghxijedqxvcrey/MapAddress_Prefix.pch -c /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/main.m -o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MainWindow.xib
+s323661518.762912
+e323661519.512450
+r1
+xCompileXIB
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323661518#323661519#0(0"0(0#0#72"/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MainWindow.xib8603724352#630"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MainWindow.nib /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddressViewController.xib
+s323661518.763788
+e323661519.572940
+r1
+xCompileXIB
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddressViewController.xib
+lSLF07#2@39"CompileXIB MapAddressViewController.xib323661518#323661519#0(0"0(0#0#86"/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddressViewController.xib8603356576#658"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddressViewController.nib /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddressViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app.dSYM /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress
+s323661520.971166
+e323661520.999798
+r1
+xGenerateDSYMFile
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app.dSYM
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/MapAddress.app.dSYM build/Debug-iphonesimulator/MapAddress.app/MapAddress323661520#323661521#0(0"0(0#0#111"/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress8603684352#449"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress -o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app.dSYM0#
+
+CLd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress normal i386
+s323661520.939596
+e323661520.971066
+r1
+xLd
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress
+xnormal
+xi386
+lSLF07#2@116"Link /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress323661520#323661520#0(0"0(0#0#0"8599504384#1010"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator -F/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator -filelist /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/Objects-normal/i386/MapAddress.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/MapAddress0#
+
+CProcessInfoPlistFile /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/Info.plist MapAddress-Info.plist
+s323661518.756552
+e323661518.762816
+r1
+xProcessInfoPlistFile
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/Info.plist
+xMapAddress-Info.plist
+lSLF07#2@29"Process MapAddress-Info.plist323661518#323661518#0(0"0(0#0#79"/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddress-Info.plist21673775077654640#545"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapAddress-Info.plist -genpkginfo /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app/Info.plist0#
+
+CProcessPCH /var/folders/tu/tuNJRbtmF24Q+FZ+VWc5vk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapAddress_Prefix-gblgrpiffqkcpwghxijedqxvcrey/MapAddress_Prefix.pch.gch MapAddress_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323661519.573125
+e323661520.661696
+r1
+xProcessPCH
+x/var/folders/tu/tuNJRbtmF24Q+FZ+VWc5vk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapAddress_Prefix-gblgrpiffqkcpwghxijedqxvcrey/MapAddress_Prefix.pch.gch
+xMapAddress_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile MapAddress_Prefix.pch323661519#323661520#0(0"0(0#0#79"/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddress_Prefix.pch8604118368#2053"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-generated-files.hmap -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-own-target-headers.hmap -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-all-target-headers.hmap -iquote /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/MapAddress-project-headers.hmap -F/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/include -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/DerivedSources/i386 -I/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/MapAddress.build/Debug-iphonesimulator/MapAddress.build/DerivedSources -c /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/MapAddress_Prefix.pch -o /var/folders/tu/tuNJRbtmF24Q+FZ+VWc5vk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapAddress_Prefix-gblgrpiffqkcpwghxijedqxvcrey/MapAddress_Prefix.pch.gch0#
+
+CTouch /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app
+s323661520.999920
+e323661521.006910
+r1
+xTouch
+x/Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app
+lSLF07#2@106"Touch /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app323661521#323661521#0(0"0(0#0#0"8603658656#319"    cd /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/denerblack/Projetos/EstudandoObjectiveC/MapAddress/build/Debug-iphonesimulator/MapAddress.app0#
+
